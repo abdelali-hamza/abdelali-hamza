@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a Javascript developer
+I'm a Javascript enthusiast
 
 
 ## 🔗 Links
