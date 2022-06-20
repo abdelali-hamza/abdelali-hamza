@@ -10,5 +10,5 @@ I'm a Javascript enthusiast
 
 
 ## 🛠 Skills
-C/C++, Java, Python, Javascript
+C/C++, Java, Python, Javascript ,
 ElectronJs
